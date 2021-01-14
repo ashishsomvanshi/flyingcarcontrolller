@@ -1,4 +1,6 @@
 # The C++ Project Readme #
+The readme and notes on completed tasks is located at:
+https://github.com/ashishsomvanshi/flyingcarcontrolller/blob/main/Flying%20Car%20-%20Controller%20Stimulator.pdf
 
 This is the readme for the C++ project.
 
